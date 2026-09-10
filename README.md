@@ -1,2 +1,2 @@
 # Python-in-Excel-for-Health-Economics
-A repository of some applications of Python in Excel for Health Economic &amp; Decision Modelling.
+This is the Repository for "Applications of Python in Excel for Health Economic & Decision Modelling".
